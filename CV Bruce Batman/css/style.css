@@ -1,0 +1,10 @@
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #E5E5E5;
+}
+h1{
+  background-color: #C4C4C4;
+  text-align: center;
+  color: #005677;
+}

@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header div.topHeader{
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    color: white;
+    padding: 4px 50px 4px 90px;
+}
